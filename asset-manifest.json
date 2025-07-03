@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/pdfClientSign/static/css/main.e6c13ad2.css",
-    "main.js": "/pdfClientSign/static/js/main.8234eb61.js",
-    "static/js/453.62e9be87.chunk.js": "/pdfClientSign/static/js/453.62e9be87.chunk.js",
-    "index.html": "/pdfClientSign/index.html",
-    "main.e6c13ad2.css.map": "/pdfClientSign/static/css/main.e6c13ad2.css.map",
-    "main.8234eb61.js.map": "/pdfClientSign/static/js/main.8234eb61.js.map",
-    "453.62e9be87.chunk.js.map": "/pdfClientSign/static/js/453.62e9be87.chunk.js.map"
+    "main.css": "/pdfClientSign/static/css/main.4efb37a3.css",
+    "main.js": "/pdfClientSign/static/js/main.877a5066.js",
+    "static/js/206.f4c636fe.chunk.js": "/pdfClientSign/static/js/206.f4c636fe.chunk.js",
+    "index.html": "/pdfClientSign/index.html"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8234eb61.js"
+    "static/css/main.4efb37a3.css",
+    "static/js/main.877a5066.js"
   ]
 }
